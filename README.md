@@ -11,6 +11,10 @@ The application is deployed to Heroku with a MongoDB database using MongoDB Atla
 npm i - to install the node dependencies
 npm run start - to start
 
+## Link to Heroku
+
+https://git.heroku.com/booksearchengineskirkzzz.git
+
 Screenshots of deployed application;
 
 ## Deployed application screen shots
