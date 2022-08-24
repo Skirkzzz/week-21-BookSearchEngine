@@ -20,9 +20,9 @@ Screenshots of deployed application;
 
 ## Deployed application screen shots
 
-![Book Search Engine!](/assets/ScreenshotGraphql.png)
+![Book Search Engine!](/Assets/ScreenshotGraphql.png)
 
-![Book Search Engine!](/assets/21-mern-homework-demo-01.png)
+![Book Search Engine!](/Assets/21-mern-homework-demo-01.png)
 
 ## User Story
 
