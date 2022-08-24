@@ -2,10 +2,10 @@
 
 ## About This Code
 
-This repo
+This repository contains a react application for a Book Search Engine.
 
 ##Portfolio
-![Screenshot of Application!](/XXXXXX)
+![Screenshot of Application!](/Assets/21-mern-homework-demo-01.gif)
 
 ## Links To Repository
 
@@ -86,3 +86,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Licence
+
+MIT
+
+### Author
+
+https://github.com/Skirkzzz includes code from Manchester University.
