@@ -8,7 +8,7 @@ import {
   Card,
   CardColumns,
 } from "react-bootstrap";
-import { useQuery } from "@apollo/client";
+//import { useQuery } from "@apollo/client";
 
 import Auth from "../utils/auth";
 import { saveBook, searchGoogleBooks } from "../utils/API";
