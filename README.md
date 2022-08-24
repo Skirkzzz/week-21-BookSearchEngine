@@ -22,7 +22,7 @@ Screenshots of deployed application;
 
 ![Book Search Engine!](/Assets/ScreenshotGraphql.png)
 
-![Book Search Engine!](/Assets/21mernhomeworkdemo01.gif.gif)
+![Book Search Engine!](/Assets/21mernhomeworkdemo01.gif)
 
 ## User Story
 
