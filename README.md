@@ -16,11 +16,12 @@ npm run start - to start
 https://booksearchengineskirkzzz.herokuapp.com/
 https://git.heroku.com/booksearchengineskirkzzz.git
 
+https://github.com/Skirkzzz/week-21-BookSearchEngine
+https://skirkzzz.github.io/week-21-BookSearchEngine/
+
 Screenshots of deployed application;
 
 ## Deployed application screen shots
-
-![Book Search Engine!](/Assets/ScreenshotGraphql.png)
 
 ![Book Search Engine!](/Assets/21mernhomeworkdemo01.gif)
 
