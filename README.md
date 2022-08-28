@@ -8,10 +8,15 @@ The application is deployed to Heroku with a MongoDB database using MongoDB Atla
 
 ## To Deploy
 
+In the root;
 npm i - to install the node dependencies
+
+In the client folder;
 npm run start - to start
 
 ## Link to Heroku
+
+Links no longer work as free accounts have been disabled from 28 August 2022. Please refer to Github.
 
 https://booksearchengineskirkzzz.herokuapp.com/
 https://git.heroku.com/booksearchengineskirkzzz.git
@@ -20,10 +25,13 @@ https://github.com/Skirkzzz/week-21-BookSearchEngine
 https://skirkzzz.github.io/week-21-BookSearchEngine/
 
 Screenshots of deployed application;
+![Book Search Engine!](/Assets/Screenshotofdeployedapp.png)
 
 ## Deployed application screen shots
 
 ![Book Search Engine!](/Assets/21mernhomeworkdemo01.gif)
+
+![Book Search Engine!](/Assets/Screenshotofdeployedapp.png)
 
 ## User Story
 
